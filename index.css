@@ -1,0 +1,35 @@
+/* styles.css */
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1 {
+  font-family: "Montserrat-Bold";
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: blue;
+}
+
+.bottom {
+
+}
